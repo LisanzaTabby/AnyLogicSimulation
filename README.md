@@ -24,6 +24,7 @@ The Following are the Customer State Charts
 
 
  
-Conclusion
+# Conclusion
+
 The Any Logic simulation Application successfully modelled the IT Support center  as per the instructions with Graphical representation of the average waiting times of customers at the queue, real time count of customers being served by the technician and the queue length and the average service Time for each customer and with the comparisons when one technician is serving.
 
